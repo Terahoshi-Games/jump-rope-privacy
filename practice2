@@ -1,7 +1,0 @@
-[SerializeField]
-int playerLevel=1;
-int currentLevel;
-Start()
-{
-  currentLevel==playerLevel;
-}
